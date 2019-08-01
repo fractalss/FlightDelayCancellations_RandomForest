@@ -1,4 +1,6 @@
 *.csv
+!data/*
+data/*
 !/data/texas_flghts.csv
 *.pkl
 .ipynb_checkpoints
