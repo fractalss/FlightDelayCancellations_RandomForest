@@ -1,5 +1,5 @@
 /data/*
-!/data/texas_flghts.csv
+!/data/texas_flights.csv
 *.pkl
 .ipynb_checkpoints
 *.csv
