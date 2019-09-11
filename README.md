@@ -1,4 +1,4 @@
-# Predicting Cancellation and Delay of Flight originating from aiports in Texas, 2015
+# Predicting Cancellation and Delay of Flight originating from airports in Texas, 2015
 
 
 ## Results
